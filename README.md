@@ -28,3 +28,10 @@ bash install.sh
 4. zsh config: .zinit and zshrc
 5. tmux config: from [github/tmuxrc](https://github.com/rxrc/tmuxrc)
 6. lazygit: a cli git tool
+
+### install Anaconda
+
+```bash
+pyenv install anaconda3-2024.02-1
+```
+
