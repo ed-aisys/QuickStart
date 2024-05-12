@@ -35,3 +35,8 @@ bash install.sh
 pyenv install anaconda3-2024.02-1
 ```
 
+### install docker and docker-compose
+
+```bash
+sudo bash install_docker.sh
+```
