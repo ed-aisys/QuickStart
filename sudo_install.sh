@@ -3,7 +3,7 @@ sudo apt install zsh wget curl -y
 sudo apt install rsync git build-essential -y
 
 sudo apt-get install libgl1-mesa-glx libegl1-mesa libxrandr2 libxrandr2 libxss1 libxcursor1 libxcomposite1 libasound2 libxi6 libxtst6 -y
-sudo apt install libssl-dev libcurses-perl libbz2-dev libctypes-ocaml-dev libreadline-dev libsqlite3-dev liblzma-dev libffi-dev
+sudo apt install libssl-dev libcurses-perl libbz2-dev libctypes-ocaml-dev libreadline-dev libsqlite3-dev liblzma-dev libffi-dev -y
 
 (type -p wget >/dev/null || (sudo apt update && sudo apt-get install wget -y)) &&
 	sudo mkdir -p -m 755 /etc/apt/keyrings &&
