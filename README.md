@@ -40,3 +40,9 @@ pyenv install anaconda3-2024.02-1
 ```bash
 sudo bash install_docker.sh
 ```
+
+
+### TODO
+
+Update module management to TINA
+
